@@ -1,0 +1,9 @@
+Metric,Value
+Historical Months,48.0
+Training Months,36.0
+Testing Months,12.0
+ARIMA MAPE (%),2.26
+SARIMA MAPE (%),2.12
+2026 Predicted Demand,21591.0
+2026 Safety Stock,2158.0
+2026 Recommended Stock,23749.0
